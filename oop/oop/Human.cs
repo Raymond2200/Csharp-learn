@@ -11,8 +11,16 @@ namespace oop
     {
 
         // member variable
-        public string firstName;
-        public string lastName;
+        private string firstName;
+        private string lastName;
+
+        // constructor
+
+        public Human(string first, string last)
+        {
+            firstName = first;
+            lastName = last;
+        }
 
         public void IntroduceMyself()
         {
