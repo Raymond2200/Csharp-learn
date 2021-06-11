@@ -1,0 +1,16 @@
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\Learning\csharp\Csharp-learn\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

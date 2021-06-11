@@ -1,0 +1,16 @@
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\bin\Debug\net5.0\NEsted-loops.exe
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\bin\Debug\net5.0\NEsted-loops.deps.json
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\bin\Debug\net5.0\NEsted-loops.runtimeconfig.json
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\bin\Debug\net5.0\NEsted-loops.runtimeconfig.dev.json
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\bin\Debug\net5.0\NEsted-loops.dll
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\bin\Debug\net5.0\ref\NEsted-loops.dll
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\bin\Debug\net5.0\NEsted-loops.pdb
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\obj\Debug\net5.0\NEsted-loops.csproj.AssemblyReference.cache
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\obj\Debug\net5.0\NEsted-loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\obj\Debug\net5.0\NEsted-loops.AssemblyInfoInputs.cache
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\obj\Debug\net5.0\NEsted-loops.AssemblyInfo.cs
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\obj\Debug\net5.0\NEsted-loops.csproj.CoreCompileInputs.cache
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\obj\Debug\net5.0\NEsted-loops.dll
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\obj\Debug\net5.0\ref\NEsted-loops.dll
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\obj\Debug\net5.0\NEsted-loops.pdb
+D:\Learning\csharp\Csharp-learn\NEsted-loops\NEsted-loops\obj\Debug\net5.0\NEsted-loops.genruntimeconfig.cache

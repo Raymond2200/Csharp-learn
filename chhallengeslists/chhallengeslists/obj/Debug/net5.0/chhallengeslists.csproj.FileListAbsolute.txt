@@ -1,0 +1,16 @@
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\bin\Debug\net5.0\chhallengeslists.exe
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\bin\Debug\net5.0\chhallengeslists.deps.json
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\bin\Debug\net5.0\chhallengeslists.runtimeconfig.json
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\bin\Debug\net5.0\chhallengeslists.runtimeconfig.dev.json
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\bin\Debug\net5.0\chhallengeslists.dll
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\bin\Debug\net5.0\ref\chhallengeslists.dll
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\bin\Debug\net5.0\chhallengeslists.pdb
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\obj\Debug\net5.0\chhallengeslists.csproj.AssemblyReference.cache
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\obj\Debug\net5.0\chhallengeslists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\obj\Debug\net5.0\chhallengeslists.AssemblyInfoInputs.cache
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\obj\Debug\net5.0\chhallengeslists.AssemblyInfo.cs
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\obj\Debug\net5.0\chhallengeslists.csproj.CoreCompileInputs.cache
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\obj\Debug\net5.0\chhallengeslists.dll
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\obj\Debug\net5.0\ref\chhallengeslists.dll
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\obj\Debug\net5.0\chhallengeslists.pdb
+D:\Learning\csharp\Csharp-learn\chhallengeslists\chhallengeslists\obj\Debug\net5.0\chhallengeslists.genruntimeconfig.cache
