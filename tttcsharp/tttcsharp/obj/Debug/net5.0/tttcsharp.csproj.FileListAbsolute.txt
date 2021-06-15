@@ -1,0 +1,16 @@
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\obj\Debug\net5.0\tttcsharp.csproj.AssemblyReference.cache
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\obj\Debug\net5.0\tttcsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\obj\Debug\net5.0\tttcsharp.AssemblyInfoInputs.cache
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\obj\Debug\net5.0\tttcsharp.AssemblyInfo.cs
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\obj\Debug\net5.0\tttcsharp.csproj.CoreCompileInputs.cache
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\bin\Debug\net5.0\tttcsharp.exe
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\bin\Debug\net5.0\tttcsharp.deps.json
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\bin\Debug\net5.0\tttcsharp.runtimeconfig.json
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\bin\Debug\net5.0\tttcsharp.runtimeconfig.dev.json
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\bin\Debug\net5.0\tttcsharp.dll
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\bin\Debug\net5.0\ref\tttcsharp.dll
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\bin\Debug\net5.0\tttcsharp.pdb
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\obj\Debug\net5.0\tttcsharp.dll
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\obj\Debug\net5.0\ref\tttcsharp.dll
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\obj\Debug\net5.0\tttcsharp.pdb
+D:\Learning\csharp\Csharp-learn\tttcsharp\tttcsharp\obj\Debug\net5.0\tttcsharp.genruntimeconfig.cache
