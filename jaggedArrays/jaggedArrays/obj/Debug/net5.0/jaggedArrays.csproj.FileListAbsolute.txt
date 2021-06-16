@@ -1,0 +1,16 @@
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\bin\Debug\net5.0\jaggedArrays.exe
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\bin\Debug\net5.0\jaggedArrays.deps.json
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\bin\Debug\net5.0\jaggedArrays.runtimeconfig.json
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\bin\Debug\net5.0\jaggedArrays.runtimeconfig.dev.json
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\bin\Debug\net5.0\jaggedArrays.dll
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\bin\Debug\net5.0\ref\jaggedArrays.dll
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\bin\Debug\net5.0\jaggedArrays.pdb
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\obj\Debug\net5.0\jaggedArrays.csproj.AssemblyReference.cache
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\obj\Debug\net5.0\jaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\obj\Debug\net5.0\jaggedArrays.AssemblyInfoInputs.cache
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\obj\Debug\net5.0\jaggedArrays.AssemblyInfo.cs
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\obj\Debug\net5.0\jaggedArrays.csproj.CoreCompileInputs.cache
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\obj\Debug\net5.0\jaggedArrays.dll
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\obj\Debug\net5.0\ref\jaggedArrays.dll
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\obj\Debug\net5.0\jaggedArrays.pdb
+D:\Learning\csharp\Csharp-learn\jaggedArrays\jaggedArrays\obj\Debug\net5.0\jaggedArrays.genruntimeconfig.cache
